@@ -484,3 +484,4 @@ Computer Vision with the OpenCV Library. O’Reilly Media.
 👤 **Arif Yılmaz**
 
 * LinkedIn: [@arif1yilmaz](https://www.linkedin.com/in/arif1yilmaz)
+* GitHub: [@arfylmaz](https://github.com/arfylmaz)
